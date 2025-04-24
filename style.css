@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:pink;
+    padding:20px;
+}
+
+h1 {
+    color:green;
+
+}
+p {
+    font-size: 18px;
+}
+.box{
+    width:300px;
+    margin:50px auto;
+    padding:20px;
+    border:2px solid #333;
+    background-color: #fff;
+    text-align: center;
+}
